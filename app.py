@@ -20,7 +20,7 @@ from hdfg import (
 
 
 st.set_page_config(page_title="H-DFG", layout="wide")
-st.title("Hierarchical Direct Flow Graph\nfor Process Mining")
+st.title("Hierarchical Direct-Flow Graph\nfor Process Mining")
 
 # ============================================================================
 # Sidebar: column mapping UI (Streamlit counterpart of the notebook's
